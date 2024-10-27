@@ -4,4 +4,5 @@ I've created several games with Python and Pygame, and I recently completed a ne
 I am also learning to use some visual python libraries like PyQt5 to create UI applications.
 
 For more information about me, visit : https://slinky-presentation.netlify.app
+
 If you’d like to contact me, feel free to email : alexandrepoggioli09@gmail.com
